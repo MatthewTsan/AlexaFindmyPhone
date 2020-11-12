@@ -1,0 +1,11 @@
+boto3==1.9.216
+ask-sdk-core==1.11.0
+
+chardet==3.0.4
+idna==2.9
+pyjwt==1.7.1
+pytz==2020.1
+requests==2.23.0
+six==1.14.0
+twilio==6.39.0
+urllib3==1.25.9
