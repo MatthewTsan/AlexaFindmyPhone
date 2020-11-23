@@ -7,12 +7,12 @@ Alexa Skill to find phone by making phone calls.
 
 - [Security](#security)
 - [Background](#background)
-  - [Introduction](##introduction)
-- [Dialog Command](#dialog command)
-- [Install and Test](#Install and Test)
-  - [Create a Skill on Amazon Alexa Developer](#Create a Skill on Amazon Alexa Developer)
-  - [Create a twilio service](#Create a twilio service)
-  - [Deploy and test the Skill](#Deploy and test the Skill)
+  - [Introduction](#introduction)
+- [Dialog Command](#dialog-command)
+- [Install and Test](#install-and-test)
+  - [Create a Skill on Amazon Alexa Developer](#create-a-skill-on-amazon-alexa-developer)
+  - [Create a twilio service](#create-a-twilio-service)
+  - [Deploy and test the Skill](#deploy-and-test-the-skill)
 
 ## Background
 
