@@ -1,4 +1,9 @@
 # Alexa Find my Phone
+
+ [![](https://img.shields.io/badge/Language-Python-brightgreen.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole) 
+
+ [![](https://img.shields.io/badge/Backend-AWS-white.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole)   [![](https://img.shields.io/badge/API-Twilio-red.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole) 
+
 # Title
 
 Alexa Skill to find phone by making phone calls.
